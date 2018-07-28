@@ -11046,11 +11046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\40_487\\Azure\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\PSHelloAzureWebApp.csproj",
+      "projectUniqueName": "C:\\Code\\40_487\\AzureTest\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\PSHelloAzureWebApp.csproj",
       "projectName": "PSHelloAzureWebApp",
-      "projectPath": "C:\\Code\\40_487\\Azure\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\PSHelloAzureWebApp.csproj",
+      "projectPath": "C:\\Code\\40_487\\AzureTest\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\PSHelloAzureWebApp.csproj",
       "packagesPath": "C:\\Users\\c50399\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\40_487\\Azure\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\obj\\",
+      "outputPath": "C:\\Code\\40_487\\AzureTest\\PSHelloAzureWebApp\\PSHelloAzureWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
